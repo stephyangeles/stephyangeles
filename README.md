@@ -12,13 +12,13 @@
 
 ## Habilidades personales
 
-- **Comunicación** - Comunicación
-- **Resolución de problemas** - Resolución
+- **Comunicación** - Comunicación efectiva
+- **Resolución de problemas** - Lógica
 - **Trabajo en equipo** - Colaboración
 - **Adaptabilidad** - Flexibilidad
 - **Pensamiento crítico** - Análisis
-- **Creatividad** - Creatividad
-- **Atención al detalle** - Detallismo
+- **Creatividad** - Innovación
+- **Atención al detalle** - Atención al detalle
 - **Inteligencia emocional** - Empatía
 - **Resolución de conflictos** - Mediación
 - **Habilidades interpersonales** - Socialización
