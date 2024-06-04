@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Stephany de los Angeles Lizarraga Lopez ✨🎀</h1>
-  <img src="https://media.giphy.com/media/Rjub7AIEIbXT0tzbr3/giphy.gif?cid=ecf05e47l495stw7f0nyyoi64dnihei1s2xx53nxjorcjmb6&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Banner de Stephany">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47b0gfcln5602aluwgks4qa159m064axd2gyd4ekav&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Banner de Stephany">
 </div>
 
 ## Sobre mí
