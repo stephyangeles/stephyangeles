@@ -3,14 +3,17 @@
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47b0gfcln5602aluwgks4qa159m064axd2gyd4ekav&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Banner de Stephany">
 </div>
 
-## Sobre mí
+> [!NOTE]
+>
+># Sobre mí
+>
+>- 🎓 Estudiante de Inteligencia Artifical.
+>-  Desarrolladora Web Full Stack y Multicloud.
+>- 🎨 Artista audiovisual en proceso de reinvención, enfocando mi carrera creativa en tecnología.
+>- 🧑‍💻 Interesada en la combinación de arte y tecnología para crear experiencias innovadoras.
 
-- 🎓 Estudiante de Desarrollo Web Full Stack y Multicloud en [Tajamar](https://www.tajamar.es) en España.
-- 🎨 Artista audiovisual en proceso de reinvención, enfocando mi carrera creativa en tecnología.
-- 🧑‍💻 Interesada en la combinación de arte y tecnología para crear experiencias innovadoras.
 
-
-## Habilidades personales
+# Habilidades personales
 
 - **Comunicación** - Comunicación efectiva
 - **Resolución de problemas** - Lógica
